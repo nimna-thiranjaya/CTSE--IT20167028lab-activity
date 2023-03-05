@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>369613593961-f3q1o6j5voe1jpkurdd967asc42e6998.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.369613593961-f3q1o6j5voe1jpkurdd967asc42e6998</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDktzbXwDGBMmp1V8VCd7sGWq16Zyv6nFA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>369613593961</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.labActivity</string>
+	<key>PROJECT_ID</key>
+	<string>ctse-lab-sunday</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ctse-lab-sunday.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:369613593961:ios:e8499de0b9fc5744db31f8</string>
+</dict>
+</plist>

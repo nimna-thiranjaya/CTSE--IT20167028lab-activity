@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369613593961",
+    "project_id": "ctse-lab-sunday",
+    "storage_bucket": "ctse-lab-sunday.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369613593961:android:e474b5f983b63c0fdb31f8",
+        "android_client_info": {
+          "package_name": "com.example.lab_activity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369613593961-6pt7l2d3bv1l4ttfav3a150ril1lgvfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBlvlpzHm2tOK2dx8kl3w0eSw0ZK1TZO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369613593961-6pt7l2d3bv1l4ttfav3a150ril1lgvfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
